@@ -36,9 +36,15 @@ q = 1.6e-19
 		La probabilità di attraversare la seconda fenditura dipende dalla posizione iniziale dell'isotopo
 		all'interno della regione tra le fenditure, dalla direzione e dal verso del vettore velocità corrispondente allo stesso.
 		Supponiamo quindi di considerare solo gli isotopi che hanno attraversato la prima fenditura: questi si trovano 
+<<<<<<< HEAD
 		nei pressi di tale apertura una volta superata la stessa. Consideriamo che le dimensioni della
 		regione tra le due fenditure siano (20x20)mm^2, che la prima fenditura sia larga 5mm e che la seconda
 		sia larga 2mm.
+=======
+		nei pressi di tale apertura una volta superata la stessa. Consideriamo che la lunghezza della
+		regione tra le due fenditure sia 5cm, che la prima fenditura sia larga 4mm e che la seconda
+		sia larga 3.18mm.
+>>>>>>> 353652e (Added)
 
 		Tramite le funzioni 'passaggio' e 'traiettoria' importate dallo script "funzioni_fisiche", possiamo simulare
 		l'attraversamento della seconda fenditura e il successivo percorso semicircolare con impatto sullo schermo
